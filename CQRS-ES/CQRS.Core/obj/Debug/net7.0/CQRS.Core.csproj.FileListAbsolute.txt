@@ -1,0 +1,12 @@
+D:\pet\docker\CQRS-ES\CQRS.Core\bin\Debug\net7.0\CQRS.Core.deps.json
+D:\pet\docker\CQRS-ES\CQRS.Core\bin\Debug\net7.0\CQRS.Core.dll
+D:\pet\docker\CQRS-ES\CQRS.Core\bin\Debug\net7.0\CQRS.Core.pdb
+D:\pet\docker\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.csproj.AssemblyReference.cache
+D:\pet\docker\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\pet\docker\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.AssemblyInfoInputs.cache
+D:\pet\docker\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.AssemblyInfo.cs
+D:\pet\docker\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.csproj.CoreCompileInputs.cache
+D:\pet\docker\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.dll
+D:\pet\docker\CQRS-ES\CQRS.Core\obj\Debug\net7.0\refint\CQRS.Core.dll
+D:\pet\docker\CQRS-ES\CQRS.Core\obj\Debug\net7.0\CQRS.Core.pdb
+D:\pet\docker\CQRS-ES\CQRS.Core\obj\Debug\net7.0\ref\CQRS.Core.dll

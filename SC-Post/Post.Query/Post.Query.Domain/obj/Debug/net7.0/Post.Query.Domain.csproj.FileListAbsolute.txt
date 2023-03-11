@@ -1,0 +1,17 @@
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Query.Domain.deps.json
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Query.Domain.dll
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Query.Domain.pdb
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\bin\Debug\net7.0\CQRS.Core.dll
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Common.dll
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\bin\Debug\net7.0\CQRS.Core.pdb
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\bin\Debug\net7.0\Post.Common.pdb
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.csproj.AssemblyReference.cache
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.AssemblyInfoInputs.cache
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.AssemblyInfo.cs
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.csproj.CoreCompileInputs.cache
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.csproj.CopyComplete
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.dll
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\refint\Post.Query.Domain.dll
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\Post.Query.Domain.pdb
+D:\pet\docker\SC-Post\Post.Query\Post.Query.Domain\obj\Debug\net7.0\ref\Post.Query.Domain.dll

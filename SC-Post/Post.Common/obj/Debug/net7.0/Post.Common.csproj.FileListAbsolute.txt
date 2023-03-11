@@ -1,0 +1,15 @@
+D:\pet\docker\SC-Post\Post.Common\bin\Debug\net7.0\Post.Common.deps.json
+D:\pet\docker\SC-Post\Post.Common\bin\Debug\net7.0\Post.Common.dll
+D:\pet\docker\SC-Post\Post.Common\bin\Debug\net7.0\Post.Common.pdb
+D:\pet\docker\SC-Post\Post.Common\bin\Debug\net7.0\CQRS.Core.dll
+D:\pet\docker\SC-Post\Post.Common\bin\Debug\net7.0\CQRS.Core.pdb
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\Post.Common.csproj.AssemblyReference.cache
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\Post.Common.AssemblyInfoInputs.cache
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\Post.Common.AssemblyInfo.cs
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\Post.Common.csproj.CoreCompileInputs.cache
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\Post.Common.csproj.CopyComplete
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\Post.Common.dll
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\refint\Post.Common.dll
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\Post.Common.pdb
+D:\pet\docker\SC-Post\Post.Common\obj\Debug\net7.0\ref\Post.Common.dll
