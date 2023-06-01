@@ -42,7 +42,6 @@ D:\pet\docker\SC-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\Swashbuckle.Asp
 D:\pet\docker\SC-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\pet\docker\SC-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\pet\docker\SC-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-D:\pet\docker\SC-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
 D:\pet\docker\SC-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\System.Drawing.Common.dll
 D:\pet\docker\SC-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 D:\pet\docker\SC-Post\Post.Query\Post.Query.Api\bin\Debug\net7.0\System.Memory.Data.dll
